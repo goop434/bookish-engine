@@ -1,0 +1,6 @@
+02 Mutated Lab Rat, HP 5 armor 0 dmg 0 3 acc 90 pur 3 exp 40
+DROPS 30 Rat Meat, END
+03 Slime, HP 20 armor 0 dmg 1 2 acc 90 pur 3 exp 60
+DROPS END
+05 Failed Cyborg, HP 40 armor 3 dmg 1 5 acc 80 pur 1 exp 130
+DROPS 30 Scrap Metal, 30 Electronic Scrap, 5 Bionic Eye, END
